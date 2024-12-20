@@ -72,7 +72,7 @@ header .lan_gnb li:hover a.lantxt{background-color: #f4f4f4; color: #E2012D;}
 
 /*collection*/
 
-#collection ul{display: flex; flex-wrap: wrap;}
+#collection ul{display: flex; flex-wrap: wrap; cursor: pointer;}
 #collection ul li{position: relative; overflow: hidden; border: 1px solid rgba(226,1,45,0.3);}
 #collection ul li dl{position: absolute; left: 40px; bottom: 55px; color: #fff;}
 #collection ul li dl dt{font-weight: bold; font-size: 28px;}
